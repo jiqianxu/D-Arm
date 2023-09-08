@@ -1,2 +1,2 @@
-# D-arm
-a robot arm
+# D-Arm
+A 7-Dof serial-type robotic manipulator.
